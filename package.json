@@ -1,0 +1,27 @@
+{
+  "name": "imitary",
+  "version": "1.0.0",
+  "description": "An Image editor and playground",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesnnanna/imitary.git"
+  },
+  "keywords": [
+    "image",
+    "photos",
+    "image-editor"
+  ],
+  "author": "Charles Uthulor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlesnnanna/imitary/issues"
+  },
+  "homepage": "https://github.com/charlesnnanna/imitary#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
